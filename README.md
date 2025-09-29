@@ -13,7 +13,7 @@ The dataset used is **AdventureWorks 2012**, a widely used sample database from 
   [AdventureWorks sample database download](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms#download-backup-files)  
 
 
-## 🔑 Key Highlights  
+## Key Highlights  
 - **SQL Connection** – Queried and extracted data directly from SQL Server.  
 - **Data Transformation** – Cleaned and structured data, categorized order statuses, optimized model.  
 - **DAX Measures** – Built KPIs: Total Sales, Orders, Tax, Freight, and Order Quantity.  
@@ -21,7 +21,7 @@ The dataset used is **AdventureWorks 2012**, a widely used sample database from 
 - **Business Insights** – Identified top-selling products, revenue-driving regions, and logistics dependencies.  
 
 
-##Dashboard Insights  
+## Dashboard Insights  
 
 ### 1️⃣ Overall KPIs  
 - **Total Orders**: 31K  
